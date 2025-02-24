@@ -1,0 +1,2875 @@
+[
+    {
+        "id": 1,
+        "name": "Mango (Aam)",
+        "price": 150,
+        "description": "Juicy, sweet, and known as the king of fruits.",
+        "health_benefits": [
+            "Boosts immunity",
+            "Rich in vitamins A & C"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hapus_Mango.jpg",
+        "shelf_life": "5-7 days",
+        "is_organic": true,
+        "packaging_type": "Cardboard Box",
+        "usage_tips": "Great for smoothies, salads, or just eating fresh.",
+        "units": "pcs"
+    },
+    {
+        "id": 2,
+        "name": "Watermelon (Tarbooz)",
+        "price": 90,
+        "description": "Refreshing, hydrating, and perfect for hot days.",
+        "health_benefits": [
+            "Hydration",
+            "Rich in antioxidants"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Watermelon.jpg",
+        "shelf_life": "7-10 days",
+        "is_organic": false,
+        "packaging_type": "Net Bag",
+        "usage_tips": "Enjoy chilled slices or blend into juice.",
+        "units": "pcs"
+    },
+    {
+        "id": 3,
+        "name": "Lychee (Litchi)",
+        "price": 300,
+        "description": "Sweet, juicy, and fragrant tropical delight.",
+        "health_benefits": [
+            "Boosts immunity",
+            "Rich in vitamin C"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Litchi.jpg",
+        "shelf_life": "5-7 days",
+        "is_organic": true,
+        "packaging_type": "Plastic Clamshell",
+        "usage_tips": "Peel and eat fresh or add to desserts.",
+        "units": "pcs"
+    },
+    {
+        "id": 4,
+        "name": "Jackfruit (Kathal)",
+        "price": 200,
+        "description": "Large tropical fruit with a sweet, fruity flavor.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Good for digestion"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jackfruit.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Whole",
+        "usage_tips": "Can be eaten raw or used in cooked dishes like curries.",
+        "units": "pcs"
+    },
+    {
+        "id": 5,
+        "name": "Pineapple (Ananas)",
+        "price": 120,
+        "description": "Tropical, sweet, and tangy.",
+        "health_benefits": [
+            "Rich in vitamin C",
+            "Aids digestion"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pineapple.jpg",
+        "shelf_life": "5-7 days",
+        "is_organic": true,
+        "packaging_type": "Plastic Bag",
+        "usage_tips": "Great for juices, desserts, and grilling.",
+        "units": "pcs"
+    },
+    {
+        "id": 6,
+        "name": "Papaya (Papita)",
+        "price": 80,
+        "description": "Sweet, soft fruit with a tropical flavor.",
+        "health_benefits": [
+            "Aids digestion",
+            "Rich in vitamin C"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Papaya.jpg",
+        "shelf_life": "7-10 days",
+        "is_organic": true,
+        "packaging_type": "Plastic Wrap",
+        "usage_tips": "Great for smoothies, salads, or eaten fresh.",
+        "units": "pcs"
+    },
+    {
+        "id": 7,
+        "name": "Blackberry (Jamun)",
+        "price": 200,
+        "description": "Dark, sweet, and packed with nutrients.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Good for heart health"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Blackberry_fruit.jpg",
+        "shelf_life": "3-5 days",
+        "is_organic": true,
+        "packaging_type": "Clamshell Box",
+        "usage_tips": "Perfect for yogurt, salads, or just eating fresh.",
+        "units": "pcs"
+    },
+    {
+        "id": 8,
+        "name": "Muskmelon (Kharbooja)",
+        "price": 100,
+        "description": "Sweet and refreshing melon, a summer favorite.",
+        "health_benefits": [
+            "Hydration",
+            "Rich in vitamins A & C"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cantaloupe_%28Cucumis_melo%29.jpg",
+        "shelf_life": "5-7 days",
+        "is_organic": true,
+        "packaging_type": "Net Bag",
+        "usage_tips": "Enjoy fresh, in salads, or blended into drinks.",
+        "units": "pcs"
+    },
+    {
+        "id": 9,
+        "name": "Cucumber (Kheera)",
+        "price": 40,
+        "description": "Crisp, cool, and hydrating vegetable.",
+        "health_benefits": [
+            "Hydration",
+            "Aids digestion"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cucumber_and_cross_section_edit.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for salads, sandwiches, or as a refreshing snack.",
+        "units": "kgs"
+    },
+    {
+        "id": 10,
+        "name": "Plum (Aloo Bukhara)",
+        "price": 180,
+        "description": "Sweet, juicy stone fruit.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Good for digestion"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Plum_fruit.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": false,
+        "packaging_type": "Clamshell Box",
+        "usage_tips": "Can be eaten fresh, in pies, or jam.",
+        "units": "pcs"
+    },
+    {
+        "id": 11,
+        "name": "Apricot (Khubani)",
+        "price": 200,
+        "description": "Sweet, slightly tart fruit.",
+        "health_benefits": [
+            "Rich in vitamin A",
+            "Good for eye health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Apricot_fruit.jpg",
+        "shelf_life": "5-7 days",
+        "is_organic": true,
+        "packaging_type": "Clamshell Box",
+        "usage_tips": "Great for eating fresh, in jams, or dried.",
+        "units": "kgs"
+    },
+    {
+        "id": 12,
+        "name": "Strawberry",
+        "price": 250,
+        "description": "Sweet, juicy, and aromatic red berries.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Good for skin health"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Strawberry.jpg",
+        "shelf_life": "3-5 days",
+        "is_organic": true,
+        "packaging_type": "Clamshell Box",
+        "usage_tips": "Perfect for desserts, smoothies, or eaten fresh.",
+        "units": "pcs"
+    },
+    {
+        "id": 13,
+        "name": "Fig (Anjeer)",
+        "price": 350,
+        "description": "Sweet, nutritious fruit often dried or eaten fresh.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Good for heart health"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Figs.jpg",
+        "shelf_life": "7-10 days",
+        "is_organic": false,
+        "packaging_type": "Plastic Bag",
+        "usage_tips": "Great for baking, in salads, or eaten fresh.",
+        "units": "pcs"
+    },
+    {
+        "id": 14,
+        "name": "Starfruit (Kamarakh)",
+        "price": 220,
+        "description": "Crisp, tart fruit with a star-like shape.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Boosts immunity"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Starfruit.jpg",
+        "shelf_life": "5-7 days",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect for garnishing salads or making juices.",
+        "units": "kgs"
+    },
+    {
+        "id": 15,
+        "name": "Coconut (Nariyal)",
+        "price": 60,
+        "description": "Tropical fruit known for its water and milk.",
+        "health_benefits": [
+            "Good for hydration",
+            "Rich in healthy fats"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coconut.jpg",
+        "shelf_life": "2-3 weeks",
+        "is_organic": false,
+        "packaging_type": "Whole",
+        "usage_tips": "Enjoy as coconut water, milk, or in cooking.",
+        "units": "pcs"
+    },
+    {
+        "id": 16,
+        "name": "Banana (Kela)",
+        "price": 40,
+        "description": "Convenient, naturally sweet, and full of potassium.",
+        "health_benefits": [
+            "Boosts energy",
+            "Rich in potassium"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Banana.jpg",
+        "shelf_life": "7-10 days",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Eat fresh or blend into smoothies.",
+        "units": "pcs"
+    },
+    {
+        "id": 17,
+        "name": "Apple (Seb)",
+        "price": 120,
+        "description": "Crisp, juicy, and perfect for snacking.",
+        "health_benefits": [
+            "Good for heart health",
+            "Rich in fiber"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Red_Apple.jpg",
+        "shelf_life": "2-3 weeks",
+        "is_organic": true,
+        "packaging_type": "Plastic Bag",
+        "usage_tips": "Perfect for eating fresh, in pies, or salads.",
+        "units": "pcs"
+    },
+    {
+        "id": 18,
+        "name": "Guava (Amrood)",
+        "price": 80,
+        "description": "Tropical, sweet, and rich in vitamin C.",
+        "health_benefits": [
+            "Boosts immunity",
+            "Good for digestion"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Guava.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": false,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for eating fresh or making juices.",
+        "units": "pcs"
+    },
+    {
+        "id": 19,
+        "name": "Pomegranate (Anaar)",
+        "price": 200,
+        "description": "Tangy, juicy, and packed with antioxidants.",
+        "health_benefits": [
+            "Boosts heart health",
+            "Rich in antioxidants"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pomegranate.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Plastic Wrap",
+        "usage_tips": "Enjoy the seeds fresh or add them to salads and desserts.",
+        "units": "pcs"
+    },
+    {
+        "id": 20,
+        "name": "Grapes (Angoor)",
+        "price": 150,
+        "description": "Sweet, small, and perfect for snacking.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Good for heart health"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Grapes.jpg",
+        "shelf_life": "5-7 days",
+        "is_organic": true,
+        "packaging_type": "Plastic Bag",
+        "usage_tips": "Great for snacking, juicing, or in salads.",
+        "units": "pcs"
+    },
+    {
+        "id": 21,
+        "name": "Orange (Santra)",
+        "price": 100,
+        "description": "Citrusy, tangy, and rich in vitamin C.",
+        "health_benefits": [
+            "Boosts immunity",
+            "Rich in vitamin C"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Orange.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": false,
+        "packaging_type": "Plastic Bag",
+        "usage_tips": "Enjoy fresh, as juice, or in desserts.",
+        "units": "pcs"
+    },
+    {
+        "id": 22,
+        "name": "Sapodilla (Chikoo)",
+        "price": 90,
+        "description": "Sweet, brown, and grainy-textured fruit.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Good for digestion"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sapodilla.jpg",
+        "shelf_life": "5-7 days",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Peel and eat fresh or add to smoothies.",
+        "units": "kgs"
+    },
+    {
+        "id": 23,
+        "name": "Cherries",
+        "price": 350,
+        "description": "Sweet or tart, juicy small stone fruits.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Good for heart health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cherries.jpg",
+        "shelf_life": "5-7 days",
+        "is_organic": true,
+        "packaging_type": "Clamshell Box",
+        "usage_tips": "Great for snacking or adding to desserts.",
+        "units": "kgs"
+    },
+    {
+        "id": 24,
+        "name": "Mulberry (Shahtoot)",
+        "price": 200,
+        "description": "Small, sweet, and packed with nutrients.",
+        "health_benefits": [
+            "Rich in vitamin C",
+            "Good for heart health"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mulberry.jpg",
+        "shelf_life": "3-5 days",
+        "is_organic": true,
+        "packaging_type": "Clamshell Box",
+        "usage_tips": "Perfect for smoothies or eaten fresh.",
+        "units": "pcs"
+    },
+    {
+        "id": 25,
+        "name": "Kiwi",
+        "price": 250,
+        "description": "Tart, green fruit with a fuzzy brown exterior.",
+        "health_benefits": [
+            "Rich in vitamin C",
+            "Boosts immunity"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kiwifruit.jpg",
+        "shelf_life": "7-10 days",
+        "is_organic": true,
+        "packaging_type": "Plastic Clamshell",
+        "usage_tips": "Great for smoothies, desserts, or just eating fresh.",
+        "units": "pcs"
+    },
+    {
+        "id": 26,
+        "name": "Passion Fruit",
+        "price": 180,
+        "description": "Tropical fruit with a sweet, tangy flavor.",
+        "health_benefits": [
+            "Boosts immunity",
+            "Rich in antioxidants"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Passion_Fruit.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": false,
+        "packaging_type": "Loose",
+        "usage_tips": "Enjoy the pulp fresh or add to drinks.",
+        "units": "pcs"
+    },
+    {
+        "id": 27,
+        "name": "Dragon Fruit (Pitaya)",
+        "price": 350,
+        "description": "Bright, colorful fruit with a mildly sweet taste.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Boosts immunity"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dragon_fruit.jpg",
+        "shelf_life": "5-7 days",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Enjoy fresh or blend into smoothies.",
+        "units": "pcs"
+    },
+    {
+        "id": 28,
+        "name": "Custard Apple (Sitaphal)",
+        "price": 120,
+        "description": "Creamy and sweet fruit with a custard-like texture.",
+        "health_benefits": [
+            "Good for digestion",
+            "Rich in vitamins"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Custard_Apple.jpg",
+        "shelf_life": "5-7 days",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Peel and scoop out the flesh to eat fresh.",
+        "units": "pcs"
+    },
+    {
+        "id": 29,
+        "name": "Avocado",
+        "price": 300,
+        "description": "Creamy, rich fruit perfect for savory and sweet dishes.",
+        "health_benefits": [
+            "Rich in healthy fats",
+            "Good for heart health"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Avocado.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for salads, sandwiches, or making guacamole.",
+        "units": "pcs"
+    },
+    {
+        "id": 30,
+        "name": "Rambutan",
+        "price": 150,
+        "description": "Hairy exterior with sweet, juicy flesh inside.",
+        "health_benefits": [
+            "Rich in vitamin C",
+            "Boosts immunity"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rambutan.jpg",
+        "shelf_life": "7-10 days",
+        "is_organic": false,
+        "packaging_type": "Loose",
+        "usage_tips": "Peel and eat fresh for a juicy treat.",
+        "units": "kgs"
+    },
+    {
+        "id": 31,
+        "name": "Blueberry",
+        "price": 280,
+        "description": "Tiny, sweet, and packed with antioxidants.",
+        "health_benefits": [
+            "Brain health",
+            "Rich in vitamins C & K"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Blueberries.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Clamshell Box",
+        "usage_tips": "Perfect for yogurt, oatmeal, or smoothies.",
+        "units": "pcs"
+    },
+    {
+        "id": 32,
+        "name": "Raspberry",
+        "price": 320,
+        "description": "Tart, sweet, and rich in vitamins.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Promotes heart health"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Raspberries.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Clamshell Box",
+        "usage_tips": "Great in smoothies, desserts, or as a snack.",
+        "units": "pcs"
+    },
+    {
+        "id": 33,
+        "name": "Gooseberry (Amla)",
+        "price": 150,
+        "description": "Sour, tart fruit known for its health benefits.",
+        "health_benefits": [
+            "Boosts immunity",
+            "Rich in vitamin C"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Indian_Gooseberry.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Can be eaten fresh or used in chutneys.",
+        "units": "pcs"
+    },
+    {
+        "id": 34,
+        "name": "Pear (Nashpati)",
+        "price": 180,
+        "description": "Sweet, juicy fruit with a slightly grainy texture.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Promotes digestive health"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pear.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for snacking, baking, or adding to salads.",
+        "units": "pcs"
+    },
+    {
+        "id": 35,
+        "name": "Peach (Aadoo)",
+        "price": 200,
+        "description": "Sweet, juicy, and fragrant fruit.",
+        "health_benefits": [
+            "Rich in vitamins",
+            "Good for skin health"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Peach.jpg",
+        "shelf_life": "5-7 days",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Enjoy fresh, or in pies and jams.",
+        "units": "pcs"
+    },
+    {
+        "id": 36,
+        "name": "Nectarine",
+        "price": 220,
+        "description": "Smooth-skinned peach with a sweet, tangy flavor.",
+        "health_benefits": [
+            "Good for digestion",
+            "Rich in vitamin C"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Nectarine.jpg",
+        "shelf_life": "5-7 days",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect for snacking or adding to desserts.",
+        "units": "kgs"
+    },
+    {
+        "id": 37,
+        "name": "Persimmon",
+        "price": 250,
+        "description": "Sweet and honey-like fruit with a smooth texture.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Good for heart health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Persimmon.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": false,
+        "packaging_type": "Loose",
+        "usage_tips": "Can be eaten fresh or used in baking.",
+        "units": "kgs"
+    },
+    {
+        "id": 38,
+        "name": "Tamarind (Imli)",
+        "price": 120,
+        "description": "Tart and tangy fruit used in many cuisines.",
+        "health_benefits": [
+            "Good for digestion",
+            "Rich in antioxidants"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tamarind.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Used in chutneys, drinks, or curries.",
+        "units": "kgs"
+    },
+    {
+        "id": 39,
+        "name": "Dates (Khajoor)",
+        "price": 350,
+        "description": "Sweet, chewy fruit often used as a natural sweetener.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Provides quick energy"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dates.jpg",
+        "shelf_life": "1 month",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Eat as a snack or use in desserts and smoothies.",
+        "units": "pcs"
+    },
+    {
+        "id": 40,
+        "name": "Olives",
+        "price": 200,
+        "description": "Salty and tangy fruit often used in Mediterranean cuisine.",
+        "health_benefits": [
+            "Good for heart health",
+            "Rich in healthy fats"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Olives.jpg",
+        "shelf_life": "3-4 weeks",
+        "is_organic": true,
+        "packaging_type": "Glass Jar",
+        "usage_tips": "Great for salads, pasta, or as a snack.",
+        "units": "kgs"
+    },
+    {
+        "id": 41,
+        "name": "Pomelo (Chakotra)",
+        "price": 150,
+        "description": "Large, citrus fruit with a mild flavor.",
+        "health_benefits": [
+            "Rich in vitamin C",
+            "Boosts immunity"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pomelo.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Peel and enjoy fresh or add to fruit salads.",
+        "units": "kgs"
+    },
+    {
+        "id": 42,
+        "name": "Berries (Various)",
+        "price": 350,
+        "description": "A variety of small, sweet, and tangy fruits.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Promote heart health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Various_berries.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Clamshell Box",
+        "usage_tips": "Perfect for snacking, smoothies, or desserts.",
+        "units": "kgs"
+    },
+    {
+        "id": 43,
+        "name": "Bael (Wood Apple)",
+        "price": 220,
+        "description": "Hard-shelled fruit with a sweet and aromatic pulp.",
+        "health_benefits": [
+            "Boosts immunity",
+            "Good for digestion"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bael_fruit.jpg",
+        "shelf_life": "2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Can be consumed as juice or in chutneys.",
+        "units": "pcs"
+    },
+    {
+        "id": 44,
+        "name": "Jujube (Ber)",
+        "price": 180,
+        "description": "Sweet, chewy fruit commonly eaten fresh or dried.",
+        "health_benefits": [
+            "Rich in vitamin C",
+            "Good for skin health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jujube.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Enjoy fresh or use in herbal teas.",
+        "units": "kgs"
+    },
+    {
+        "id": 45,
+        "name": "Custard Apple (Seetaphal)",
+        "price": 250,
+        "description": "Creamy, sweet fruit with a custard-like texture.",
+        "health_benefits": [
+            "Rich in vitamins",
+            "Good for heart health"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Annona_squamosa.jpg",
+        "shelf_life": "3-4 days",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Eat fresh or blend into smoothies.",
+        "units": "pcs"
+    },
+    {
+        "id": 46,
+        "name": "Cranberry",
+        "price": 320,
+        "description": "Tart, red berries often used in juices and sauces.",
+        "health_benefits": [
+            "Promotes urinary health",
+            "Rich in antioxidants"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cranberry.jpg",
+        "shelf_life": "2 weeks",
+        "is_organic": true,
+        "packaging_type": "Clamshell Box",
+        "usage_tips": "Great in juices, desserts, or as a topping.",
+        "units": "pcs"
+    },
+    {
+        "id": 47,
+        "name": "Loganberry",
+        "price": 290,
+        "description": "A hybrid of raspberry and blackberry, with a sweet-tart flavor.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Promotes heart health"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Loganberry.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Clamshell Box",
+        "usage_tips": "Add to jams, jellies, or desserts.",
+        "units": "pcs"
+    },
+    {
+        "id": 48,
+        "name": "Mulberry",
+        "price": 240,
+        "description": "Sweet, small berries that grow on a mulberry tree.",
+        "health_benefits": [
+            "Rich in vitamins",
+            "Good for bone health"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mulberries.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great in cereals, smoothies, or as a snack.",
+        "units": "pcs"
+    },
+    {
+        "id": 49,
+        "name": "Blackcurrant",
+        "price": 300,
+        "description": "Small, tangy berries rich in vitamin C.",
+        "health_benefits": [
+            "Boosts immunity",
+            "Rich in antioxidants"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Blackcurrant.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Clamshell Box",
+        "usage_tips": "Add to smoothies, jams, or sauces.",
+        "units": "kgs"
+    },
+    {
+        "id": 50,
+        "name": "White Currant",
+        "price": 310,
+        "description": "Tart and sweet, pale berries.",
+        "health_benefits": [
+            "Rich in vitamin C",
+            "Boosts immunity"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/White_Currant.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Clamshell Box",
+        "usage_tips": "Ideal for desserts, jams, and jellies.",
+        "units": "kgs"
+    },
+    {
+        "id": 51,
+        "name": "Elderberry",
+        "price": 400,
+        "description": "Small, dark purple berries known for their immune-boosting properties.",
+        "health_benefits": [
+            "Supports immune system",
+            "Rich in antioxidants"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Elderberry_bunch.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Use in syrups, jams, or as a supplement.",
+        "units": "pcs"
+    },
+    {
+        "id": 52,
+        "name": "Boysenberry",
+        "price": 350,
+        "description": "A hybrid berry, tangy and sweet.",
+        "health_benefits": [
+            "Rich in vitamin C",
+            "Good for digestion"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Boysenberry_bunch.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Clamshell Box",
+        "usage_tips": "Perfect for pies, jams, or smoothies.",
+        "units": "pcs"
+    },
+    {
+        "id": 53,
+        "name": "Mangosteen",
+        "price": 500,
+        "description": "A tropical fruit with a sweet, tangy flavor.",
+        "health_benefits": [
+            "Promotes digestion",
+            "Rich in antioxidants"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mangosteen_fruit.jpg",
+        "shelf_life": "2-3 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Peel and eat fresh or use in desserts.",
+        "units": "pcs"
+    },
+    {
+        "id": 54,
+        "name": "Goji Berry",
+        "price": 380,
+        "description": "Small, red berries known for their health benefits.",
+        "health_benefits": [
+            "Boosts immunity",
+            "Supports eye health"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Goji_berries.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Clamshell Box",
+        "usage_tips": "Great for smoothies, oatmeal, or trail mixes.",
+        "units": "pcs"
+    },
+    {
+        "id": 55,
+        "name": "Hog Plum (Ambarella)",
+        "price": 250,
+        "description": "A tropical fruit with a sweet and tangy flavor.",
+        "health_benefits": [
+            "Boosts immunity",
+            "Rich in vitamins A & C"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hog_plum.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Can be eaten fresh or in salads.",
+        "units": "pcs"
+    },
+    {
+        "id": 56,
+        "name": "Roselle (Gongura)",
+        "price": 220,
+        "description": "Tangy and tart, used primarily in herbal teas.",
+        "health_benefits": [
+            "Supports digestion",
+            "Rich in vitamin C"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Roselle_fruit.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Use in herbal teas, juices, or jams.",
+        "units": "kgs"
+    },
+    {
+        "id": 57,
+        "name": "Indian Gooseberry (Amla)",
+        "price": 150,
+        "description": "A sour, green fruit known for its health benefits.",
+        "health_benefits": [
+            "Rich in vitamin C",
+            "Boosts immunity"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Indian_gooseberry.jpg",
+        "shelf_life": "2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Can be eaten fresh, in juices, or as a supplement.",
+        "units": "pcs"
+    },
+    {
+        "id": 58,
+        "name": "Buddha's Hand (Fingered Citron)",
+        "price": 500,
+        "description": "A fragrant citrus fruit used for zest and flavoring.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Promotes healthy skin"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Buddha%27s_hand.jpg",
+        "shelf_life": "3-4 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Use the zest in cooking or in essential oils.",
+        "units": "kgs"
+    },
+    {
+        "id": 59,
+        "name": "Breadfruit",
+        "price": 400,
+        "description": "A starchy, potato-like fruit commonly eaten cooked.",
+        "health_benefits": [
+            "Rich in carbohydrates",
+            "High in fiber"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Breadfruit.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for baking, boiling, or frying.",
+        "units": "kgs"
+    },
+    {
+        "id": 60,
+        "name": "Cactus Fruit (Prickly Pear)",
+        "price": 300,
+        "description": "A sweet and juicy fruit that grows on cacti.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Supports heart health"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Prickly_pear.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Peel the skin before eating or use in smoothies.",
+        "units": "pcs"
+    },
+    {
+        "id": 61,
+        "name": "Quince (Bahi)",
+        "price": 350,
+        "description": "A fragrant fruit often used in jams and jellies.",
+        "health_benefits": [
+            "Good for digestive health",
+            "Rich in fiber"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Quince.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for making jams, jellies, or baking.",
+        "units": "kgs"
+    },
+    {
+        "id": 62,
+        "name": "Cherimoya (Custard Apple)",
+        "price": 400,
+        "description": "A sweet, creamy fruit with a custard-like texture.",
+        "health_benefits": [
+            "Supports digestion",
+            "Rich in vitamins B & C"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cherimoya_fruit.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Eat fresh or blend into smoothies.",
+        "units": "pcs"
+    },
+    {
+        "id": 63,
+        "name": "Langsat",
+        "price": 350,
+        "description": "A small, sweet fruit with a tangy flavor.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Promotes healthy digestion"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Langsat_fruit.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Peel and eat fresh.",
+        "units": "kgs"
+    },
+    {
+        "id": 64,
+        "name": "Sapote",
+        "price": 450,
+        "description": "A sweet, creamy fruit with a smooth texture.",
+        "health_benefits": [
+            "High in vitamin C",
+            "Supports immune function"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sapote_fruit.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Can be eaten fresh or used in smoothies.",
+        "units": "kgs"
+    },
+    {
+        "id": 65,
+        "name": "Salak (Snake Fruit)",
+        "price": 300,
+        "description": "A fruit with reddish-brown scaly skin and a sweet, tangy flavor.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Promotes digestion"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Salak_fruit.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Peel the skin and enjoy fresh.",
+        "units": "kgs"
+    },
+    {
+        "id": 66,
+        "name": "Tangerine",
+        "price": 200,
+        "description": "A small, sweet citrus fruit.",
+        "health_benefits": [
+            "Rich in vitamin C",
+            "Supports immune health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tangerine_fruit.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for snacking or adding to salads.",
+        "units": "kgs"
+    },
+    {
+        "id": 67,
+        "name": "Ugli Fruit",
+        "price": 250,
+        "description": "A tangy, hybrid citrus fruit with a rough exterior.",
+        "health_benefits": [
+            "High in vitamin C",
+            "Promotes skin health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ugli_fruit.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Peel and eat fresh or use in juices.",
+        "units": "kgs"
+    },
+    {
+        "id": 68,
+        "name": "Yuzu",
+        "price": 500,
+        "description": "A fragrant citrus fruit used for zest and juice.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Supports immune health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Yuzu_fruit.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Use zest in cooking or squeeze for juice.",
+        "units": "kgs"
+    },
+    {
+        "id": 69,
+        "name": "Longan",
+        "price": 350,
+        "description": "Small, sweet, and similar to lychee.",
+        "health_benefits": [
+            "Supports immune system",
+            "Rich in vitamins B & C"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Longan_fruit.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Peel and eat fresh or add to desserts.",
+        "units": "kgs"
+    },
+    {
+        "id": 70,
+        "name": "Langsat",
+        "price": 350,
+        "description": "A small, sweet fruit with a tangy flavor.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Promotes healthy digestion"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Langsat_fruit.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Peel and eat fresh.",
+        "units": "kgs"
+    },
+    {
+        "id": 71,
+        "name": "Durian",
+        "price": 900,
+        "description": "A pungent-smelling tropical fruit with a creamy texture.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Good for digestion"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Durian_fruit.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Eat fresh or use in desserts and ice cream.",
+        "units": "kgs"
+    },
+    {
+        "id": 72,
+        "name": "Kiwano (Horned Melon)",
+        "price": 550,
+        "description": "A spiky, exotic fruit with a sweet and tart taste.",
+        "health_benefits": [
+            "Rich in vitamin C",
+            "Promotes hydration"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kiwano_fruit.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Cut open and scoop out the pulp to eat.",
+        "units": "pcs"
+    },
+    {
+        "id": 73,
+        "name": "Miracle Fruit",
+        "price": 1200,
+        "description": "A small berry that makes sour foods taste sweet.",
+        "health_benefits": [
+            "Boosts taste perception",
+            "Rich in antioxidants"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Miracle_Fruit.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Consume before eating sour foods to enhance sweetness.",
+        "units": "kgs"
+    },
+    {
+        "id": 74,
+        "name": "Marionberry",
+        "price": 350,
+        "description": "A type of blackberry, sweet and tangy in flavor.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Supports heart health"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Marionberries.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Clamshell Box",
+        "usage_tips": "Add to smoothies, desserts, or enjoy fresh.",
+        "units": "pcs"
+    },
+    {
+        "id": 75,
+        "name": "Sea Buckthorn",
+        "price": 800,
+        "description": "A bright orange fruit known for its high vitamin C content.",
+        "health_benefits": [
+            "Rich in vitamin C",
+            "Boosts immune system"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sea_Buckthorn.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Use in juices, smoothies, or as a supplement.",
+        "units": "kgs"
+    },
+    {
+        "id": 76,
+        "name": "Potato",
+        "price": 50,
+        "description": "Starchy, versatile, and widely consumed root vegetable.",
+        "health_benefits": [
+            "Good source of energy",
+            "Rich in potassium"
+        ],
+        "category": "Tubers",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Potato_on_white_background.jpg",
+        "shelf_life": "2-3 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Best for mashing, frying, or baking.",
+        "units": "kgs"
+    },
+    {
+        "id": 77,
+        "name": "Onion",
+        "price": 30,
+        "description": "A pungent, flavorful vegetable commonly used in cooking.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Good for heart health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Onions.jpg",
+        "shelf_life": "1-2 months",
+        "is_organic": false,
+        "packaging_type": "Net bag",
+        "usage_tips": "Great for stir-fries, soups, and garnishing.",
+        "units": "kgs"
+    },
+    {
+        "id": 78,
+        "name": "Tomato",
+        "price": 80,
+        "description": "Juicy, red fruit commonly used in salads and cooking.",
+        "health_benefits": [
+            "High in vitamins C and A",
+            "Good for skin health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tomato_je.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect for salads, sauces, and juices.",
+        "units": "kgs"
+    },
+    {
+        "id": 79,
+        "name": "Cauliflower",
+        "price": 100,
+        "description": "Cruciferous vegetable with a mild taste, often used as a low-carb substitute.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Supports digestion"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/White_Cauliflower.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Can be steamed, roasted, or used in curries.",
+        "units": "kgs"
+    },
+    {
+        "id": 80,
+        "name": "Cabbage",
+        "price": 40,
+        "description": "Leafy vegetable, green or purple, with a mild taste.",
+        "health_benefits": [
+            "High in vitamin C",
+            "Good for weight management"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cabbage_-_whole_head.jpg",
+        "shelf_life": "1-2 months",
+        "is_organic": false,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect for coleslaw, stir-fries, or soups.",
+        "units": "kgs"
+    },
+    {
+        "id": 81,
+        "name": "Beans",
+        "price": 60,
+        "description": "High-protein, fiber-rich vegetable available in many varieties.",
+        "health_benefits": [
+            "Rich in protein",
+            "Helps regulate blood sugar levels"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Green_beans.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for soups, stews, and salads.",
+        "units": "kgs"
+    },
+    {
+        "id": 82,
+        "name": "Eggplant (Brinjal)",
+        "price": 90,
+        "description": "Purple vegetable with a unique texture and mild flavor.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Promotes heart health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Eggplant.jpg",
+        "shelf_life": "1 week",
+        "is_organic": false,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect for grilling, stir-frying, or in curries.",
+        "units": "kgs"
+    },
+    {
+        "id": 83,
+        "name": "Cucumber",
+        "price": 50,
+        "description": "Crisp, refreshing vegetable with high water content.",
+        "health_benefits": [
+            "Good for hydration",
+            "Promotes healthy skin"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cucumber_and_cross_section.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect for salads, sandwiches, or as a refreshing snack.",
+        "units": "kgs"
+    },
+    {
+        "id": 84,
+        "name": "Gherkin",
+        "price": 80,
+        "description": "Small, sour cucumbers often used for pickling.",
+        "health_benefits": [
+            "Low in calories",
+            "High in vitamins A and K"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gherkin.jpg",
+        "shelf_life": "2-3 weeks",
+        "is_organic": false,
+        "packaging_type": "Jar",
+        "usage_tips": "Ideal for pickling or as a crunchy snack.",
+        "units": "kgs"
+    },
+    {
+        "id": 85,
+        "name": "Frozen Peas",
+        "price": 90,
+        "description": "Convenient frozen peas for easy storage and use.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Good for digestion"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Frozen_peas.jpg",
+        "shelf_life": "6-12 months",
+        "is_organic": true,
+        "packaging_type": "Frozen Pack",
+        "usage_tips": "Perfect for soups, stews, and side dishes.",
+        "units": "kgs"
+    },
+    {
+        "id": 86,
+        "name": "Garlic",
+        "price": 120,
+        "description": "A pungent, aromatic bulb used in many cuisines.",
+        "health_benefits": [
+            "Boosts immunity",
+            "Good for heart health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Garlic.jpg",
+        "shelf_life": "1-2 months",
+        "is_organic": false,
+        "packaging_type": "Loose",
+        "usage_tips": "Used as a seasoning in various dishes.",
+        "units": "kgs"
+    },
+    {
+        "id": 87,
+        "name": "Okra (Bhindi)",
+        "price": 70,
+        "description": "Slim, green vegetable with a mild taste, commonly used in curries.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Good for digestion"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Okra_-_Bhindi.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Ideal for stir-fries, curries, and pickles.",
+        "units": "kgs"
+    },
+    {
+        "id": 88,
+        "name": "Spinach (Palak)",
+        "price": 40,
+        "description": "Leafy green vegetable, rich in iron and vitamins.",
+        "health_benefits": [
+            "Good for eye health",
+            "Rich in iron"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Spinach.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for salads, soups, and smoothies.",
+        "units": "kgs"
+    },
+    {
+        "id": 89,
+        "name": "Carrot (Gajar)",
+        "price": 60,
+        "description": "Crunchy, orange root vegetable that is sweet and nutritious.",
+        "health_benefits": [
+            "Good for vision",
+            "Rich in vitamin A"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Carrot_%28PSF%29.jpg",
+        "shelf_life": "2-3 weeks",
+        "is_organic": false,
+        "packaging_type": "Loose",
+        "usage_tips": "Ideal for salads, soups, or snacking.",
+        "units": "kgs"
+    },
+    {
+        "id": 90,
+        "name": "Radish (Mooli)",
+        "price": 50,
+        "description": "Crisp, white root vegetable with a slightly peppery flavor.",
+        "health_benefits": [
+            "Promotes digestion",
+            "Low in calories"
+        ],
+        "category": "Tubers",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/White_Radish.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great in salads, sandwiches, and pickles.",
+        "units": "kgs"
+    },
+    {
+        "id": 91,
+        "name": "Beetroot (Chukandar)",
+        "price": 90,
+        "description": "Sweet, earthy-tasting root vegetable rich in nutrients.",
+        "health_benefits": [
+            "Rich in folate",
+            "Improves blood circulation"
+        ],
+        "category": "Tubers",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Beetroot.jpg",
+        "shelf_life": "2-3 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Best for roasting, salads, or juices.",
+        "units": "kgs"
+    },
+    {
+        "id": 92,
+        "name": "Bottle Gourd (Lauki)",
+        "price": 40,
+        "description": "Green, mild-tasting gourd often used in curries and stews.",
+        "health_benefits": [
+            "Promotes digestion",
+            "Hydrating"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bottle_gourd.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Ideal for soups, curries, and juices.",
+        "units": "kgs"
+    },
+    {
+        "id": 93,
+        "name": "Bitter Gourd (Karela)",
+        "price": 120,
+        "description": "A bitter-tasting vegetable that is known for its health benefits.",
+        "health_benefits": [
+            "Helps regulate blood sugar",
+            "Boosts immune system"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bitter_Melon.jpg",
+        "shelf_life": "1 week",
+        "is_organic": false,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for stir-fries, juices, or curries.",
+        "units": "kgs"
+    },
+    {
+        "id": 94,
+        "name": "Pumpkin (Kaddu)",
+        "price": 70,
+        "description": "Sweet, orange vegetable commonly used in soups and pies.",
+        "health_benefits": [
+            "Rich in vitamin A",
+            "Good for heart health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pumpkin_Whole.jpg",
+        "shelf_life": "2-3 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Best for roasting, soups, and pies.",
+        "units": "kgs"
+    },
+    {
+        "id": 95,
+        "name": "Sweet Potato (Shakarkand)",
+        "price": 80,
+        "description": "Sweet-tasting root vegetable rich in vitamins and fiber.",
+        "health_benefits": [
+            "Good for skin health",
+            "Rich in vitamin A"
+        ],
+        "category": "Tubers",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sweet_potatoes.jpg",
+        "shelf_life": "2-3 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect for baking, roasting, or mashing.",
+        "units": "kgs"
+    },
+    {
+        "id": 96,
+        "name": "Green Peas (Matar)",
+        "price": 60,
+        "description": "Sweet, tender peas that are commonly used in various dishes.",
+        "health_benefits": [
+            "High in fiber",
+            "Good for digestion"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Green_Peas.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for soups, curries, and rice dishes.",
+        "units": "kgs"
+    },
+    {
+        "id": 97,
+        "name": "Drumstick (Moringa)",
+        "price": 120,
+        "description": "Long, green pods with a mildly bitter taste, packed with nutrients.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Boosts immunity"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Moringa_pods.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for curries, soups, or stews.",
+        "units": "kgs"
+    },
+    {
+        "id": 98,
+        "name": "Fenugreek (Methi)",
+        "price": 40,
+        "description": "Small, aromatic leaves and seeds used in cooking.",
+        "health_benefits": [
+            "Regulates blood sugar",
+            "Rich in iron"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fenugreek_plant.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Ideal for adding to dals, curries, and stir-fries.",
+        "units": "kgs"
+    },
+    {
+        "id": 99,
+        "name": "Coriander (Dhaniya)",
+        "price": 30,
+        "description": "Fresh green herb with a citrusy flavor commonly used in cooking.",
+        "health_benefits": [
+            "Improves digestion",
+            "Rich in vitamin C"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coriander_in_bunch.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for garnishing soups, curries, and salads.",
+        "units": "kgs"
+    },
+    {
+        "id": 100,
+        "name": "Mint (Pudina)",
+        "price": 50,
+        "description": "Aromatic green leaves with a cool, refreshing flavor.",
+        "health_benefits": [
+            "Helps with digestion",
+            "Good for oral health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mint_Leaves.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for making chutneys, teas, or garnishing dishes.",
+        "units": "kgs"
+    },
+    {
+        "id": 101,
+        "name": "Bell Peppers (Capsicum)",
+        "price": 90,
+        "description": "Sweet, crunchy peppers that come in various colors.",
+        "health_benefits": [
+            "Rich in vitamin C",
+            "Good for eye health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bell_pepper_%28capsicum%29.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect for salads, stir-fries, and grilling.",
+        "units": "kgs"
+    },
+    {
+        "id": 102,
+        "name": "Celery",
+        "price": 100,
+        "description": "Crisp, green stalks with a mild flavor, often used in soups.",
+        "health_benefits": [
+            "Good for heart health",
+            "Rich in antioxidants"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Celery_Bunch.jpg",
+        "shelf_life": "1 week",
+        "is_organic": false,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for soups, salads, and juicing.",
+        "units": "kgs"
+    },
+    {
+        "id": 103,
+        "name": "Lettuce",
+        "price": 60,
+        "description": "Crisp, leafy vegetable, commonly used in salads.",
+        "health_benefits": [
+            "Low in calories",
+            "Rich in vitamins A & K"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lettuce.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Ideal for salads, sandwiches, and wraps.",
+        "units": "kgs"
+    },
+    {
+        "id": 104,
+        "name": "Broccoli",
+        "price": 120,
+        "description": "Green vegetable with a dense head of flower buds.",
+        "health_benefits": [
+            "Rich in vitamin C",
+            "Good for bone health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Broccoli_-_vegetable.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for steaming, stir-fries, or as a side dish.",
+        "units": "kgs"
+    },
+    {
+        "id": 105,
+        "name": "Zucchini",
+        "price": 80,
+        "description": "Green summer squash, mild in flavor and ideal for cooking.",
+        "health_benefits": [
+            "Low in calories",
+            "Rich in vitamin C"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Zucchini.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Best for stir-fries, pasta dishes, or grilling.",
+        "units": "kgs"
+    },
+    {
+        "id": 106,
+        "name": "Turnip (Shalgam)",
+        "price": 50,
+        "description": "White root vegetable with a mildly bitter taste.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Good for digestion"
+        ],
+        "category": "Tubers",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Turnip.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Ideal for stews, soups, or mashed dishes.",
+        "units": "kgs"
+    },
+    {
+        "id": 107,
+        "name": "Mushroom (Khumb)",
+        "price": 120,
+        "description": "Edible fungi with a meaty texture, commonly used in cooking.",
+        "health_benefits": [
+            "Rich in vitamin D",
+            "Supports immune system"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/White_mushrooms.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect for stir-fries, soups, or pizzas.",
+        "units": "kgs"
+    },
+    {
+        "id": 108,
+        "name": "Leek",
+        "price": 110,
+        "description": "Vegetable related to the onion, with a mild onion flavor.",
+        "health_benefits": [
+            "Good for heart health",
+            "Rich in vitamins A & K"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Leeks.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for soups, quiches, or sautés.",
+        "units": "kgs"
+    },
+    {
+        "id": 109,
+        "name": "Spring Onion (Scallion)",
+        "price": 50,
+        "description": "Mild onion variety with both white and green parts.",
+        "health_benefits": [
+            "Good for immune function",
+            "Rich in vitamin C"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Scallions.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect for garnishing soups, salads, and stir-fries.",
+        "units": "kgs"
+    },
+    {
+        "id": 110,
+        "name": "Curry Leaves (Kadi Patta)",
+        "price": 40,
+        "description": "Aromatic leaves used in Indian cooking for their distinct flavor.",
+        "health_benefits": [
+            "Helps in digestion",
+            "Rich in antioxidants"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Curry_leaves.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for tempering curries and dals.",
+        "units": "kgs"
+    },
+    {
+        "id": 111,
+        "name": "Green Chili (Hari Mirch)",
+        "price": 20,
+        "description": "Hot and spicy chili peppers commonly used in cooking.",
+        "health_benefits": [
+            "Boosts metabolism",
+            "Rich in vitamin C"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Green_chilies.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Used for adding spice to curries, salads, and sauces.",
+        "units": "kgs"
+    },
+    {
+        "id": 112,
+        "name": "Radicchio",
+        "price": 150,
+        "description": "Leafy vegetable with a slightly bitter taste and red leaves.",
+        "health_benefits": [
+            "High in antioxidants",
+            "Supports liver function"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Radicchio.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect for salads and grilling.",
+        "units": "kgs"
+    },
+    {
+        "id": 113,
+        "name": "Artichoke",
+        "price": 200,
+        "description": "Thorny vegetable with edible leaves and heart.",
+        "health_benefits": [
+            "Good for liver health",
+            "Rich in fiber"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Artichokes.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for steaming, boiling, or adding to salads.",
+        "units": "kgs"
+    },
+    {
+        "id": 114,
+        "name": "Asparagus",
+        "price": 180,
+        "description": "Long, slender stalks with a mild flavor.",
+        "health_benefits": [
+            "Rich in folate",
+            "Good for digestion"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Asparagus_Officinalis.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Best for grilling, roasting, or adding to salads.",
+        "units": "kgs"
+    },
+    {
+        "id": 115,
+        "name": "Fennel (Saunf)",
+        "price": 50,
+        "description": "Crunchy, anise-flavored vegetable used in salads and stews.",
+        "health_benefits": [
+            "Good for digestion",
+            "Rich in vitamin C"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fennel_bulb.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect for salads, soups, or roasted dishes.",
+        "units": "kgs"
+    },
+    {
+        "id": 116,
+        "name": "Brussels Sprouts",
+        "price": 250,
+        "description": "Small, round green vegetable resembling mini cabbages.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Supports bone health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Brussels_sprouts.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Best when roasted, steamed, or sautéed.",
+        "units": "kgs"
+    },
+    {
+        "id": 117,
+        "name": "Water Chestnut (Singhara)",
+        "price": 120,
+        "description": "Aquatic tuber with a crisp texture, often used in Asian cooking.",
+        "health_benefits": [
+            "Good for kidney health",
+            "Rich in potassium"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Water_chestnut.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great in stir-fries, soups, or as a crunchy snack.",
+        "units": "kgs"
+    },
+    {
+        "id": 118,
+        "name": "Mustard Greens (Sarson)",
+        "price": 60,
+        "description": "Leafy green with a peppery flavor, widely used in Indian cooking.",
+        "health_benefits": [
+            "Rich in vitamin K",
+            "Good for digestion"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mustard_greens.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Ideal for making Sarson da Saag or adding to soups.",
+        "units": "kgs"
+    },
+    {
+        "id": 119,
+        "name": "Kohlrabi (Ganth Gobhi)",
+        "price": 80,
+        "description": "Round, bulbous vegetable with a mild, sweet taste.",
+        "health_benefits": [
+            "Rich in vitamin C",
+            "Supports immune function"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kohlrabi.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great raw in salads or cooked in stews.",
+        "units": "kgs"
+    },
+    {
+        "id": 120,
+        "name": "Turnip Greens",
+        "price": 60,
+        "description": "Leafy greens from the turnip plant, rich in nutrients.",
+        "health_benefits": [
+            "High in iron",
+            "Good for bone health"
+        ],
+        "category": "Tubers",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Turnip_greens.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Best for sautés or adding to soups.",
+        "units": "kgs"
+    },
+    {
+        "id": 121,
+        "name": "Swiss Chard",
+        "price": 150,
+        "description": "Leafy green vegetable with vibrant stems and a slightly earthy flavor.",
+        "health_benefits": [
+            "Rich in magnesium",
+            "Supports heart health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Swiss_Chard.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for sautés, soups, or as a side dish.",
+        "units": "kgs"
+    },
+    {
+        "id": 122,
+        "name": "Collard Greens",
+        "price": 80,
+        "description": "Dark leafy green with a mild, earthy flavor.",
+        "health_benefits": [
+            "Rich in calcium",
+            "Supports digestive health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Collard_greens.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great in soups, stews, or sautéed.",
+        "units": "kgs"
+    },
+    {
+        "id": 123,
+        "name": "Endive",
+        "price": 100,
+        "description": "Leafy vegetable with a slightly bitter flavor.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Good for digestion"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Endive.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect for salads or as a garnish.",
+        "units": "kgs"
+    },
+    {
+        "id": 124,
+        "name": "Radicchio",
+        "price": 150,
+        "description": "Leafy vegetable with a slightly bitter taste and red leaves.",
+        "health_benefits": [
+            "High in antioxidants",
+            "Supports liver function"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Radicchio.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect for salads and grilling.",
+        "units": "kgs"
+    },
+    {
+        "id": 125,
+        "name": "Arugula (Rocket Leaves)",
+        "price": 200,
+        "description": "Peppery, leafy green vegetable often used in salads.",
+        "health_benefits": [
+            "Rich in vitamins A and K",
+            "Supports heart health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Arugula.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect for salads or as a pizza topping.",
+        "units": "kgs"
+    },
+    {
+        "id": 126,
+        "name": "Dandelion Greens",
+        "price": 70,
+        "description": "Leafy greens with a slightly bitter taste, often used in herbal remedies.",
+        "health_benefits": [
+            "Rich in calcium and iron",
+            "Good for liver health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dandelion_greens.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Best used in teas or as a salad green.",
+        "units": "kgs"
+    },
+    {
+        "id": 127,
+        "name": "Chinese Cabbage (Bok Choy)",
+        "price": 120,
+        "description": "Mild, leafy cabbage variety used in Asian cooking.",
+        "health_benefits": [
+            "Rich in vitamins A and C",
+            "Supports bone health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bok_choy.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for stir-fries, soups, or stews.",
+        "units": "kgs"
+    },
+    {
+        "id": 128,
+        "name": "Snow Peas",
+        "price": 150,
+        "description": "Sweet, edible-pod pea variety often used in Asian dishes.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Good for digestion"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Snow_peas.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for stir-fries or adding to salads.",
+        "units": "kgs"
+    },
+    {
+        "id": 129,
+        "name": "Water Spinach (Kang Kong)",
+        "price": 120,
+        "description": "Aquatic leafy vegetable used in Southeast Asian cuisine.",
+        "health_benefits": [
+            "Rich in iron",
+            "Good for blood circulation"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Water_spinach.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect in stir-fries, soups, or curries.",
+        "units": "kgs"
+    },
+    {
+        "id": 130,
+        "name": "Lotus Root (Kamal Kakdi)",
+        "price": 180,
+        "description": "Crunchy tuber with a mild, sweet flavor, used in Asian dishes.",
+        "health_benefits": [
+            "Rich in potassium",
+            "Supports digestive health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lotus_root.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Can be used in soups, stir-fries, or salads.",
+        "units": "kgs"
+    },
+    {
+        "id": 131,
+        "name": "Jicama (Singkamas)",
+        "price": 160,
+        "description": "Crisp, slightly sweet root vegetable often eaten raw.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Good for digestive health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jicama.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great raw in salads or as a snack.",
+        "units": "kgs"
+    },
+    {
+        "id": 132,
+        "name": "Salsify",
+        "price": 250,
+        "description": "Root vegetable with a mild, oyster-like flavor.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Good for heart health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Salsify.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Can be boiled, roasted, or added to stews.",
+        "units": "kgs"
+    },
+    {
+        "id": 133,
+        "name": "Celery Root (Celeriac)",
+        "price": 200,
+        "description": "Root vegetable with a mild celery flavor and rough skin.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Good for digestion"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Celeriac.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Can be used in soups, stews, or mashed.",
+        "units": "kgs"
+    },
+    {
+        "id": 134,
+        "name": "Bamboo Shoots",
+        "price": 100,
+        "description": "Tender shoots of bamboo, commonly used in Asian cooking.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Supports weight loss"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bamboo_shoots.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Ideal in stir-fries or curries.",
+        "units": "kgs"
+    },
+    {
+        "id": 135,
+        "name": "Chayote (Chow Chow)",
+        "price": 150,
+        "description": "Green, wrinkled vegetable often used in savory dishes.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Supports heart health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chayote.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Can be boiled, sautéed, or used in salads.",
+        "units": "kgs"
+    },
+    {
+        "id": 136,
+        "name": "Taro Root (Arbi)",
+        "price": 180,
+        "description": "Starchy root vegetable with a nutty flavor.",
+        "health_benefits": [
+            "Rich in potassium",
+            "Supports digestive health"
+        ],
+        "category": "Tubers",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Taro.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Boil, roast, or add to stews and curries.",
+        "units": "kgs"
+    },
+    {
+        "id": 137,
+        "name": "Yucca Root",
+        "price": 220,
+        "description": "Starchy root vegetable with a mild, sweet flavor.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Supports energy levels"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Yucca_root.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Can be boiled, fried, or mashed.",
+        "units": "kgs"
+    },
+    {
+        "id": 138,
+        "name": "Horseradish",
+        "price": 180,
+        "description": "Spicy root vegetable often used in sauces and condiments.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Helps in digestion"
+        ],
+        "category": "Tubers",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Horseradish.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Grate into sauces, soups, or as a condiment.",
+        "units": "kgs"
+    },
+    {
+        "id": 139,
+        "name": "Turmeric Root",
+        "price": 250,
+        "description": "Bright yellow root with a spicy, earthy flavor.",
+        "health_benefits": [
+            "Anti-inflammatory",
+            "Supports digestive health"
+        ],
+        "category": "Tubers",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Turmeric_root.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Can be used in curries, soups, or smoothies.",
+        "units": "kgs"
+    },
+    {
+        "id": 140,
+        "name": "Galangal Root",
+        "price": 300,
+        "description": "Aromatic root used in Southeast Asian cuisine.",
+        "health_benefits": [
+            "Supports digestion",
+            "Relieves nausea"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Galangal_root.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Used in curries, soups, and herbal teas.",
+        "units": "kgs"
+    },
+    {
+        "id": 141,
+        "name": "Watercress",
+        "price": 100,
+        "description": "Peppery, leafy green vegetable often used in salads.",
+        "health_benefits": [
+            "Rich in vitamins A, C, and K",
+            "Supports heart health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Watercress.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for salads or as a garnish.",
+        "units": "kgs"
+    },
+    {
+        "id": 142,
+        "name": "Purslane",
+        "price": 90,
+        "description": "Tangy, leafy green vegetable often used in salads.",
+        "health_benefits": [
+            "Rich in omega-3 fatty acids",
+            "Supports heart health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Purslane.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect in salads or as a garnish.",
+        "units": "kgs"
+    },
+    {
+        "id": 143,
+        "name": "Amaranth Leaves",
+        "price": 70,
+        "description": "Leafy greens with a mild, earthy flavor.",
+        "health_benefits": [
+            "Rich in iron and calcium",
+            "Supports immune function"
+        ],
+        "category": "Cereals",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Amaranth_leaves.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Can be sautéed or added to soups.",
+        "units": "kgs"
+    },
+    {
+        "id": 144,
+        "name": "Microgreens",
+        "price": 200,
+        "description": "Young edible plants harvested at an early stage.",
+        "health_benefits": [
+            "Rich in vitamins and antioxidants",
+            "Boosts immune function"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Microgreens.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great in salads, sandwiches, or as a garnish.",
+        "units": "kgs"
+    },
+    {
+        "id": 145,
+        "name": "Nopal (Cactus Pads)",
+        "price": 250,
+        "description": "The fleshy pads of the prickly pear cactus, often used in Mexican cuisine.",
+        "health_benefits": [
+            "Supports digestive health",
+            "Rich in antioxidants"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Nopal_pad.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Grill, sauté, or use in salads.",
+        "units": "kgs"
+    },
+    {
+        "id": 146,
+        "name": "Parsley Root",
+        "price": 120,
+        "description": "A root vegetable related to parsley with a mild flavor.",
+        "health_benefits": [
+            "Rich in vitamins A and C",
+            "Supports immune function"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Parsley_root.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Can be used in soups, stews, and salads.",
+        "units": "kgs"
+    },
+    {
+        "id": 147,
+        "name": "Rutabaga",
+        "price": 150,
+        "description": "A root vegetable with a sweet and slightly peppery flavor.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Supports heart health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rutabaga.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great mashed, roasted, or added to stews.",
+        "units": "kgs"
+    },
+    {
+        "id": 148,
+        "name": "Kale",
+        "price": 180,
+        "description": "Leafy green vegetable that is a good source of vitamins A, K, and C.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Supports bone health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kale.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Can be sautéed, used in salads, or added to smoothies.",
+        "units": "kgs"
+    },
+    {
+        "id": 149,
+        "name": "Chicory",
+        "price": 100,
+        "description": "Leafy green with a slightly bitter taste, often used in salads or as a coffee substitute.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Supports liver health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chicory.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Can be eaten raw or roasted for a coffee alternative.",
+        "units": "kgs"
+    },
+    {
+        "id": 150,
+        "name": "Sorrel",
+        "price": 80,
+        "description": "Leafy green with a tangy, lemon-like flavor.",
+        "health_benefits": [
+            "Rich in vitamin C",
+            "Supports digestive health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sorrel_leaf.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect for adding a tangy flavor to salads and soups.",
+        "units": "kgs"
+    },
+    {
+        "id": 151,
+        "name": "Collard Greens",
+        "price": 80,
+        "description": "Dark leafy greens, packed with nutrients and antioxidants.",
+        "health_benefits": [
+            "Rich in vitamins A, C, K",
+            "Supports heart health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Collard_Greens.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Bunch",
+        "usage_tips": "Use in soups, stews, or sauté with garlic.",
+        "units": "kgs"
+    },
+    {
+        "id": 152,
+        "name": "New Zealand Spinach",
+        "price": 100,
+        "description": "A tender, leafy green with a mild taste.",
+        "health_benefits": [
+            "High in iron",
+            "Supports immune function"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/New_Zealand_Spinach.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect for salads, sandwiches, or as a garnish.",
+        "units": "kgs"
+    },
+    {
+        "id": 153,
+        "name": "Tat Soi",
+        "price": 120,
+        "description": "A dark green, mild-flavored leafy vegetable.",
+        "health_benefits": [
+            "Rich in antioxidants",
+            "Supports bone health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tatsoi.jpg",
+        "shelf_life": "3-5 days",
+        "is_organic": true,
+        "packaging_type": "Bunch",
+        "usage_tips": "Great for stir-fries or adding to soups.",
+        "units": "kgs"
+    },
+    {
+        "id": 154,
+        "name": "Mizuna",
+        "price": 110,
+        "description": "A leafy green with a mild, peppery taste.",
+        "health_benefits": [
+            "Rich in vitamins A, C",
+            "Supports digestion"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mizuna.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Bunch",
+        "usage_tips": "Perfect for salads, stir-fries, or as a garnish.",
+        "units": "kgs"
+    },
+    {
+        "id": 155,
+        "name": "Mibuna",
+        "price": 130,
+        "description": "A Japanese leafy green with a mild, mustard flavor.",
+        "health_benefits": [
+            "High in vitamins A, C, and K",
+            "Supports immune health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mibuna.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Bunch",
+        "usage_tips": "Use in soups, salads, or sautéed with garlic.",
+        "units": "kgs"
+    },
+    {
+        "id": 156,
+        "name": "Mustard Leaves (Sarson)",
+        "price": 80,
+        "description": "Spicy and pungent leafy green commonly used in Indian cuisine.",
+        "health_benefits": [
+            "High in fiber",
+            "Rich in vitamins A, C, and K"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sarson.jpg",
+        "shelf_life": "1-2 weeks",
+        "is_organic": true,
+        "packaging_type": "Bunch",
+        "usage_tips": "Best used in curries, dals, or as a side dish.",
+        "units": "kgs"
+    },
+    {
+        "id": 157,
+        "name": "Cabbage (Patta Gobhi)",
+        "price": 40,
+        "description": "Crunchy and leafy vegetable, available in green and purple varieties.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Supports digestive health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cabbage_2010_G1.jpg",
+        "shelf_life": "2-3 weeks",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Great for coleslaw, stir-fries, or soups.",
+        "units": "kgs"
+    },
+    {
+        "id": 158,
+        "name": "Water Spinach (Kangkung)",
+        "price": 70,
+        "description": "Aquatic leafy vegetable commonly used in Southeast Asian cuisine.",
+        "health_benefits": [
+            "Rich in iron",
+            "Supports heart health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Water_Spinach.jpg",
+        "shelf_life": "3-5 days",
+        "is_organic": true,
+        "packaging_type": "Loose",
+        "usage_tips": "Perfect for stir-fries, soups, or salads.",
+        "units": "kgs"
+    },
+    {
+        "id": 159,
+        "name": "Amaranth (Chaulai)",
+        "price": 90,
+        "description": "A nutritious leafy green used in various cuisines around the world.",
+        "health_benefits": [
+            "High in protein",
+            "Rich in antioxidants"
+        ],
+        "category": "Cereals",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Amaranth_Leaves.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Bunch",
+        "usage_tips": "Ideal for soups, stews, and stir-fries.",
+        "units": "kgs"
+    },
+    {
+        "id": 160,
+        "name": "Beet Greens",
+        "price": 60,
+        "description": "The edible leafy greens of the beetroot plant.",
+        "health_benefits": [
+            "Rich in folate",
+            "Supports liver health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Beet_Greens.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Bunch",
+        "usage_tips": "Perfect for sautéing, soups, or as a salad base.",
+        "units": "kgs"
+    },
+    {
+        "id": 161,
+        "name": "Spinach (Palak)",
+        "price": 50,
+        "description": "Popular leafy green, rich in iron and vitamins.",
+        "health_benefits": [
+            "Supports bone health",
+            "Rich in antioxidants"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Spinach.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Bunch",
+        "usage_tips": "Great for salads, soups, or as a sautéed side dish.",
+        "units": "kgs"
+    },
+    {
+        "id": 162,
+        "name": "Turnip Greens",
+        "price": 75,
+        "description": "The leafy tops of turnips, with a mild, peppery flavor.",
+        "health_benefits": [
+            "Rich in vitamins A, C, K",
+            "Supports immune health"
+        ],
+        "category": "Tubers",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Turnip_Greens.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Bunch",
+        "usage_tips": "Perfect for soups, stews, or sautéed with garlic.",
+        "units": "kgs"
+    },
+    {
+        "id": 163,
+        "name": "Radish Greens",
+        "price": 65,
+        "description": "The leafy greens of the radish plant, with a spicy flavor.",
+        "health_benefits": [
+            "Rich in vitamin C",
+            "Supports digestive health"
+        ],
+        "category": "Tubers",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Radish_Greens.jpg",
+        "shelf_life": "3-5 days",
+        "is_organic": true,
+        "packaging_type": "Bunch",
+        "usage_tips": "Great for salads, soups, or stir-fries.",
+        "units": "kgs"
+    },
+    {
+        "id": 164,
+        "name": "Fenugreek Leaves (Methi)",
+        "price": 60,
+        "description": "Aromatic, slightly bitter leaves, commonly used in Indian cooking.",
+        "health_benefits": [
+            "Rich in fiber",
+            "Supports blood sugar regulation"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fenugreek_Leaves.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Bunch",
+        "usage_tips": "Perfect for curries, parathas, or as a garnish.",
+        "units": "kgs"
+    },
+    {
+        "id": 165,
+        "name": "Malabar Spinach (Basella)",
+        "price": 80,
+        "description": "A tropical vine with thick, fleshy leaves that are rich in iron.",
+        "health_benefits": [
+            "Rich in iron",
+            "Supports bone health"
+        ],
+        "category": "Vegetables",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Malabar_Spinach.jpg",
+        "shelf_life": "1 week",
+        "is_organic": true,
+        "packaging_type": "Bunch",
+        "usage_tips": "Great for soups, stir-fries, or as a salad base.",
+        "units": "kgs"
+    },
+    {
+        "id": 166,
+        "name": "Quinoa",
+        "price": 280,
+        "description": "Ancient grain rich in protein and fiber",
+        "health_benefits": [
+            "Complete protein source",
+            "Rich in fiber and minerals"
+        ],
+        "category": "Cereals",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Quinoa.jpg",
+        "shelf_life": "6-8 months",
+        "is_organic": true,
+        "packaging_type": "Sealed Package",
+        "usage_tips": "Great in salads, as a side dish, or in breakfast bowls",
+        "units": "kgs"
+    },
+    {
+        "id": 167,
+        "name": "Rolled Oats",
+        "price": 120,
+        "description": "Whole grain oats processed for quick cooking",
+        "health_benefits": [
+            "Heart healthy",
+            "Rich in dietary fiber"
+        ],
+        "category": "Cereals",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rolled_oats.jpg",
+        "shelf_life": "12 months",
+        "is_organic": true,
+        "packaging_type": "Sealed Package",
+        "usage_tips": "Perfect for breakfast porridge or baking",
+        "units": "kgs"
+    },
+    {
+        "id": 168,
+        "name": "Pearl Barley",
+        "price": 90,
+        "description": "Processed barley grain with a mild, nutty flavor",
+        "health_benefits": [
+            "Supports digestive health",
+            "Good source of fiber"
+        ],
+        "category": "Fruits",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pearl_barley.jpg",
+        "shelf_life": "12 months",
+        "is_organic": true,
+        "packaging_type": "Sealed Package",
+        "usage_tips": "Great in soups, stews, or as a rice alternative",
+        "units": "kgs"
+    },
+    {
+        "id": 169,
+        "name": "Brown Rice",
+        "price": 85,
+        "description": "Whole grain rice with nutty flavor and chewy texture",
+        "health_benefits": [
+            "Rich in fiber",
+            "Good source of minerals"
+        ],
+        "category": "Cereals",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Brown_rice.jpg",
+        "shelf_life": "6 months",
+        "is_organic": true,
+        "packaging_type": "Sealed Package",
+        "usage_tips": "Perfect as a healthy side dish or in grain bowls",
+        "units": "kgs"
+    }
+]
